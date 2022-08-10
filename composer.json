@@ -1,0 +1,21 @@
+{
+    "name": "ntlongg/demo",
+    "description": "This test package laravel 2",
+    "type": "library",
+    "license": "MIT",
+    "authors": [{
+        "name": "Long",
+        "email": "nggthanhlong@gmail.com"
+    }],
+    "minimum-stability": "dev",
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "ntlongg\\demo\\": "src/"
+
+        }
+    }
+
+}
